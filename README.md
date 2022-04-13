@@ -1,2 +1,2 @@
 # JavaScript-ToDoApp
-Using JavaScript to create ToDo App, follow Redux concept
+Using JavaScript to create ToDo App, following Redux concept
